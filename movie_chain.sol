@@ -7,7 +7,7 @@
 /// @dev All function calls are currently implemented without side effects
 /// @custom:im newbie at solidity, you can found errors.
 
-pragma solidity ^0.8.11;
+pragma solidity ^0.8.12;
 
 contract movies_chain {
 
